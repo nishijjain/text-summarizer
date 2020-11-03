@@ -13,3 +13,6 @@ A Java application which gives a summary of any input text/article.
 7. Sort the selected sentences in order of appearance in the original text to preserve content and meaning.
 
 And like that, you have generated a summary of the original text.
+
+## Run the program
+Run the improved_summary.java file and you will see the summary with stats displayed towards the bottom of the window.
